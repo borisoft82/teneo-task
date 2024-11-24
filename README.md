@@ -37,6 +37,7 @@ Create MySQL database in phpMyAdmin then open your CLI and run these commands on
 
 
 ```
+ER diagram is in the root of the ./backend folder
 
 ## Frontend
 - The frontend part is based on Vue.js framework
