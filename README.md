@@ -29,7 +29,7 @@ Create MySQL database in phpMyAdmin then open your CLI and run these commands on
 
   php artisan key:generate
 
-  php artisan session:table
+  php artisan session:table (if you get the error message Migration already exists just keep going with next step)
 
   php artisan migrate --seed
 
@@ -53,6 +53,8 @@ Node.js (https://nodejs.org/en) - I used version v20.10.0
   npm i
 
   npm run dev
+
+  Visit: http://localhost:5173/
 ```
 
 
