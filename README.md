@@ -29,6 +29,8 @@ Create MySQL database in phpMyAdmin then open your CLI and run these commands on
 
   php artisan key:generate
 
+  php artisan session:table
+
   php artisan migrate --seed
 
   php artisan serve
